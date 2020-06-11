@@ -1,0 +1,27 @@
+{
+  "name": "jwt-demo",
+  "version": "1.0.0",
+  "description": "This is the jwt integration demo",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket-vanani/jwtnodedemo.git"
+  },
+  "author": "sanket vanani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket-vanani/jwtnodedemo/issues"
+  },
+  "homepage": "https://github.com/sanket-vanani/jwtnodedemo#readme"
+}
